@@ -1,5 +1,6 @@
 # SECO_Deep Learning
 This project was tested using the 'movielens 100k' dataset to create a recommendation algorithm to be applied to SECO. 
+- Colab URL: https://colab.research.google.com/drive/1rB4Oz9jd4tyzRykAYTZmjamYpq7iKrbS?usp=sharing
 ---
 
 ## File Information
