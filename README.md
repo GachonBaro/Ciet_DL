@@ -1,33 +1,20 @@
-# SECO_DL
+# SECO_Deep Learning
+This project was tested using the 'movielens 100k' dataset to create a recommendation algorithm to be applied to SECO. 
+---
 
-# Deep Learning - 2021 Term Project  
-This project is *'Automatic Hyperparameter Tuning'* and *'contributing to the PyTorch open source community'* projects conducted in Gachon University's deep learning class.  
----
-## Member Information
-- Sehun An (ansehoon1999@gmail.com)
-- Junkyung Kim (lxs987@naver.com)
-- Hyeonseo Jung (windymay1920@gmail.com)
----
-## Objective  
-### 1. Kaggle - Gachon Deep Learning Class Competition
-- Yoga 6 Classes Classification
-- URL: https://www.kaggle.com/c/gachon-deeplearning
-### 2. Contributing to the Pytorch open source community: implementing Automatic Hyerparameter Tuner
----
 ## File Information
-- Written by: Sehoon An, Jinkyung Kim, Hyeonseo Jung (***[Important] Based on Reference Code provided by Professor Jungchan Cho's deep learning class of Gachon University***)
-- Date: 6/4/2021
+- Written by: JeongJun Lee
+- Date: 12/8/2021
 ---
 ## Environment  
 ### Devolopment Environment  
-- Kaggle Notebook (Running Kaggle Kernels with a ***GPU***)
+- Google Colaboratory Pro
 ---
 ## Requirements
-- 'Kaggle Kernel' or 'Google Colaboratory'
 - Dataset
-   - A subset of Yoga-82 dataset: 6 Classes - balancing, inverted, reclining, sitting, standing, and wheel.
-   - URL: https://sites.google.com/view/yoga-82/ (Be aware of copyright)
-- You can see more details in [Tutorial](https://github.com/HyeonseoJUNG/deep-learning-2021-term-project/wiki)
+   - Movielens 100k dataset: 3 Tables - Users, Movies, Ratings.
+   - URL: https://grouplens.org/datasets/movielens/100k/ (Be aware of copyright)
+
 ---
 ## Result
 - The Final best score is **0.88333**.
