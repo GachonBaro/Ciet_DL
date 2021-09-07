@@ -1,5 +1,5 @@
-# SECO_Deep Learning
-This project was tested using the 'movielens 100k' dataset to create a recommendation algorithm to be applied to SECO. 
+# Ciet_Deep Learning
+This project was tested using the 'movielens 100k' dataset to create a recommendation algorithm to be applied to Ciet. 
 - Colab URL: https://colab.research.google.com/drive/1rB4Oz9jd4tyzRykAYTZmjamYpq7iKrbS?usp=sharing
 ---
 
@@ -26,5 +26,5 @@ This project was tested using the 'movielens 100k' dataset to create a recommend
 ---
 
 ## Read More (click below)
-[📕Documentation](https://github.com/GachonBaro/SECO_DL/blob/main/Deep%20Autoencoders%20for%20eco%20recommendations.pdf)
+[📕Documentation](https://github.com/GachonBaro/Ciet_DL/blob/main/Deep%20Autoencoders%20for%20eco%20recommendations.pdf)
 
