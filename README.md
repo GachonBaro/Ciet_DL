@@ -4,8 +4,8 @@ This project was tested using the 'movielens 100k' dataset to create a recommend
 ---
 
 ## File Information
-- Written by: JeongJun Lee, Hyeonseo Jung, Hyojung Lee, Sojeong Kim
-- Date: 12/8/2021
+- Written by: JeongJun Lee, Hyeonseo Jung, Sojeong Kim
+- Date: 8/9/2021
 ---
 ## Environment  
 ### Devolopment Environment  
